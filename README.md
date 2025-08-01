@@ -31,35 +31,46 @@ Customer retention is a top priority in subscription-based industries. This dash
 
 - **KPI Cards** for total, active, and churned customers
 
+<img width="907" height="170" alt="image" src="https://github.com/user-attachments/assets/4a9a8ae3-7af2-4ddb-80ff-f4b6cf0f1465" />
 
-  <img width="975" height="117" alt="image" src="https://github.com/user-attachments/assets/79cf5f4d-6f37-4482-8b58-4138e02dbed1" />
+---
+
+- **Churn by Gender**: Pie chart
 
 
-- **Churn by Gender and Age Group**: Combined bar and line chart
+<img width="421" height="246" alt="image" src="https://github.com/user-attachments/assets/39957102-9428-4432-bbae-0e5dca1cec16" />
+
+---
+
+- **Churn by Age Group**: Combined bar and line chart
 
 
-<img width="522" height="141" alt="image" src="https://github.com/user-attachments/assets/e4ec66ec-0da4-44b7-b880-826713c61693" />
+<img width="348" height="246" alt="image" src="https://github.com/user-attachments/assets/a5688f57-5715-414d-b8ff-9262a87a892a" />
 
-  
+---
+
 - **Churn by Payment Method, Contract Type**
 
-<img width="517" height="216" alt="image" src="https://github.com/user-attachments/assets/242cbf28-4fa8-4e06-8385-72043326c076" />
+<img width="765" height="307" alt="image" src="https://github.com/user-attachments/assets/8042dd24-1185-4a67-89b0-3332ac900883" />
 
+---
 
 - **Geographic map showing Churn by Location** (simulated Canadian cities)
 
 
-  <img width="198" height="367" alt="image" src="https://github.com/user-attachments/assets/58f873ec-f5d2-4066-888a-dbfc741ecb64" />
+  <img width="305" height="541" alt="image" src="https://github.com/user-attachments/assets/40411b7d-462c-4cc7-8ad6-453e8a4751a8" />
 
+---
 
 - **Churn by Service Type**: Comparison of churn vs. retention
 
-  <img width="245" height="371" alt="image" src="https://github.com/user-attachments/assets/8055c3bd-df0c-4f1b-a014-f3d8aa9809fb" />
+  <img width="372" height="542" alt="image" src="https://github.com/user-attachments/assets/6670d4a3-7040-406e-9369-827ea4551e3e" />
 
+---
 
 - **🎯 Interactive filters allow slicing the data by Monthly Charges and Location**
 
-<img width="392" height="48" alt="image" src="https://github.com/user-attachments/assets/e67932c9-af93-4e86-a328-5cafc5686030" />
+<img width="496" height="180" alt="image" src="https://github.com/user-attachments/assets/889d77a9-7629-437f-90ae-ad9dfd7ec23b" />
 
 
 ---
@@ -77,7 +88,7 @@ Customer retention is a top priority in subscription-based industries. This dash
 
 - 56,344 rows
 - Key fields: `gender`, `age`, `contract`, `monthly_charges`, `services`, `churn`
-- Added features: `Age Group`, `Active Status`, `Location`
+- Added features: `Age Group`, `Active Customers`, `Location`, 'Churn Rate', 'tenure'
 
 ---
 
@@ -91,8 +102,7 @@ Customer retention is a top priority in subscription-based industries. This dash
 
 ## 🖼️ Preview
 
-<img width="985" height="561" alt="image" src="https://github.com/user-attachments/assets/39cfc1a7-88e4-440a-9c90-dabb35031869" />
-  
+<img width="1372" height="772" alt="image" src="https://github.com/user-attachments/assets/469baa4b-36be-4d99-bbac-ab6dfb595be1" />
 
 ---
 
